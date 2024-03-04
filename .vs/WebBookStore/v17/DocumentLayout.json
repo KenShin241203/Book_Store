@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tri Vinhx\\OneDrive\\M\u00E1y t\u00EDnh\\WebBookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01C4368D-7295-442A-8F73-7983558E8236}|WebBookStore\\WebBookStore.csproj|c:\\users\\tri vinhx\\onedrive\\m\u00E1y t\u00EDnh\\webbookstore\\webbookstore\\models\\mockbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C4368D-7295-442A-8F73-7983558E8236}|WebBookStore\\WebBookStore.csproj|solutionrelative:webbookstore\\models\\mockbookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C4368D-7295-442A-8F73-7983558E8236}|WebBookStore\\WebBookStore.csproj|c:\\users\\tri vinhx\\onedrive\\m\u00E1y t\u00EDnh\\webbookstore\\webbookstore\\models\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C4368D-7295-442A-8F73-7983558E8236}|WebBookStore\\WebBookStore.csproj|solutionrelative:webbookstore\\models\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C4368D-7295-442A-8F73-7983558E8236}|WebBookStore\\WebBookStore.csproj|c:\\users\\tri vinhx\\onedrive\\m\u00E1y t\u00EDnh\\webbookstore\\webbookstore\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C4368D-7295-442A-8F73-7983558E8236}|WebBookStore\\WebBookStore.csproj|solutionrelative:webbookstore\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C4368D-7295-442A-8F73-7983558E8236}|WebBookStore\\WebBookStore.csproj|c:\\users\\tri vinhx\\onedrive\\m\u00E1y t\u00EDnh\\webbookstore\\webbookstore\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C4368D-7295-442A-8F73-7983558E8236}|WebBookStore\\WebBookStore.csproj|solutionrelative:webbookstore\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C4368D-7295-442A-8F73-7983558E8236}|WebBookStore\\WebBookStore.csproj|c:\\users\\tri vinhx\\onedrive\\m\u00E1y t\u00EDnh\\webbookstore\\webbookstore\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01C4368D-7295-442A-8F73-7983558E8236}|WebBookStore\\WebBookStore.csproj|solutionrelative:webbookstore\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\OneDrive\\M\u00E1y t\u00EDnh\\WebBookStore\\WebBookStore\\Models\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "WebBookStore\\Models\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\OneDrive\\M\u00E1y t\u00EDnh\\WebBookStore\\WebBookStore\\Models\\IBookRepository.cs",
+              "RelativeToolTip": "WebBookStore\\Models\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:16:51.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\OneDrive\\M\u00E1y t\u00EDnh\\WebBookStore\\WebBookStore\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "WebBookStore\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\OneDrive\\M\u00E1y t\u00EDnh\\WebBookStore\\WebBookStore\\Controllers\\BookController.cs",
+              "RelativeToolTip": "WebBookStore\\Controllers\\BookController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:16:44.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\OneDrive\\M\u00E1y t\u00EDnh\\WebBookStore\\WebBookStore\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBookStore\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\OneDrive\\M\u00E1y t\u00EDnh\\WebBookStore\\WebBookStore\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "WebBookStore\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-27T09:43:50.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MockBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\OneDrive\\M\u00E1y t\u00EDnh\\WebBookStore\\WebBookStore\\Models\\MockBookRepository.cs",
+              "RelativeDocumentMoniker": "WebBookStore\\Models\\MockBookRepository.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\OneDrive\\M\u00E1y t\u00EDnh\\WebBookStore\\WebBookStore\\Models\\MockBookRepository.cs",
+              "RelativeToolTip": "WebBookStore\\Models\\MockBookRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T09:43:17.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Tri Vinhx\\OneDrive\\M\u00E1y t\u00EDnh\\WebBookStore\\WebBookStore\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "WebBookStore\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Tri Vinhx\\OneDrive\\M\u00E1y t\u00EDnh\\WebBookStore\\WebBookStore\\Models\\Book.cs",
+              "RelativeToolTip": "WebBookStore\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T09:43:14.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
